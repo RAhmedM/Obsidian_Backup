@@ -1,0 +1,1 @@
+A rational agent could be anything that makes decisions, such as a person, firm, machine, or software. It carries out an action with the best outcome after considering past and current precepts(agent’s perceptual inputs at a given instance).

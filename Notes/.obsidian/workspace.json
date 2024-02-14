@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "52e8f62b8e7fc2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd630f9e2b7dda23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed47cc5c35dcccdf",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md"
+              }
+            }
+          },
+          {
+            "id": "cc6ed6c46a43999b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/Drawing 2024-02-11 01.23.53.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa833987a8e44846",
+    "type": "split",
+    "children": [
+      {
+        "id": "d92c8380a3bb9b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02f610c489df76f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "5e929ea85e5b9a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cebc04116cce3a59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3386be19c33ba710",
+    "type": "split",
+    "children": [
+      {
+        "id": "820c49dacc859d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58151ab6f97ca9ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e48ca48660d378d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f6ef27d1e64ccad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a39bc68d3f3cc0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md"
+              }
+            }
+          },
+          {
+            "id": "dabaa4aab3a77aca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6a09a4a76d9333c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6efbba0040ebe4d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "6b4e8d445694545e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f639d4423003b40",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.10270140365830878,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ed47cc5c35dcccdf",
+  "lastOpenFiles": [
+    "Semester 6/Parallel and Distributed Computing/Assignment 1/Report.md",
+    "Semester 6/Parallel and Distributed Computing/Assignment 1/A1.md",
+    "Semester 6/Parallel and Distributed Computing/Assignment 1/Drawing 2024-02-11 01.23.53.excalidraw.md",
+    "Semester 6/Parallel and Distributed Computing/Fundamentals of Parallel Programming.md",
+    "Semester 6/Parallel and Distributed Computing/Assignment 1/PDC_1.md",
+    "Semester 6/Parallel and Distributed Computing/Assignment 1",
+    "Rust/Rust.md",
+    "Rust/&str.md",
+    "Excalidraw/Drawing 2024-02-06 23.42.01.excalidraw.md",
+    "Untitled",
+    "Semester 6/Images/Screenshot from 2024-01-31 01-08-08.png",
+    "Semester 6/Images/Screenshot from 2024-01-31 01-05-59.png",
+    "Semester 6/Images/Screenshot from 2024-01-31 01-05-50.png",
+    "Semester 6/Images/Screenshot from 2024-01-31 01-05-38.png",
+    "Semester 6/Images",
+    "Semester 6/Artificial Intelligence/Lecture 1.md",
+    "Semester 6/Artificial Intelligence/rational agents.md",
+    "Semester 6/Drawings/Agents_Drawing.md",
+    "Semester 6/Artificial Intelligence/rational agents..md",
+    "Semester 6/Drawings",
+    "Excalidraw",
+    "Rust/Struct.md",
+    "Rust/Hotel Management OS.md",
+    "Rust/Enums.md",
+    "Semester 6/Digital Image Processing",
+    "Semester 6/Artificial Intelligence",
+    "Semester 6/Numerical Computing",
+    "Semester 6/Software Engineering",
+    "Semester 6/Parallel and Distributed Computing",
+    "Rust/Tuples.md",
+    "Rust/Untitled.md",
+    "Rust/Ownership.md",
+    "Rust/AI Project.md",
+    "Rust/Untitled Kanban 1.md",
+    "Semester 6/Untitled.md",
+    "sad.md",
+    "Untitled.canvas",
+    "2024-01-15.md",
+    "Docker/Getting Started.md",
+    "**sad**.md",
+    "2024-01-13.md",
+    "the_canvas.canvas"
+  ]
+}
